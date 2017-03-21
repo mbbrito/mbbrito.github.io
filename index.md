@@ -1,7 +1,4 @@
 ---
-layouts: default
----
----
 title:     Prof. Lucas Pedroso
 permalink: /
 ---
